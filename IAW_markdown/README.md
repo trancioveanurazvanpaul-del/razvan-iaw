@@ -21,5 +21,5 @@ A continuació es mostra la imatge guardada al directori local:
 
 ---
 
-## 3. Navegació del repositori
+## 3. Navegació del repositorO
 👉 [Anar al segon document](document2.md)
